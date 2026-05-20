@@ -74,3 +74,21 @@ Gpose lights can now be made and edited in far more detail than was possible in 
 ### Inverse Kinematics
 Ktisis v3 has added Inverse Kinematics for controlling your arms, legs, tail (if applicable), and male genitals (if applicable), letting you have much more natural control over your characters movements while posing.
 
+### Actor Spawning & Multi Posing
+You can now spawn actors arbitrarily, as a clone of of an actor, from an NPC, an MCDF or Chara file, and you can pose multiple actors at the same time.
+
+### Animation Controls
+Ktisis now features robust animation control, allowing you to select individual face, body, or lip animations, and apply expressions while in pose mode.
+
+### Plugin Compatibility
+Penumbra, Glamourer and Customize+ are now fully supported and easy to use options to apply options from your Profiles/Collections/Glamourer presets, as well as the ability to make an actors skin completely invisible leaving your gear free to be posed how you want thanks to the Penumbra support baked in.
+
+### And more!
+A few items I didnt have room to go in to detail above for:
+- Pose flipping
+- Multi-select Bones + Mirror modes
+- Native MCDF support
+- Expanded camera controls
+- Pose view
+- The 2D gizmo
+- A robust attach system
