@@ -5,26 +5,27 @@ A prerequisite for this guide is that you have a github account, if you dont ple
 
 ## Getting started
 
-If this is the first time you've ever edited the wiki, go and [fork](https://github.com/ktisis-tools/docs/fork) the repository, the default settings are fine you can just click the green button that says 'Create fork'.
+If this is the first time you've ever edited the wiki, go and [fork](https://github.com/ktisis-tools/docs/fork) the repository, the default settings are fine you can just click the green button that says 'Create Fork'.
+
 This will bring you to your own copy of the docs, which you are now free to mess with. I'll give a brief overview on how to use the github web editor below.
 
 ## Editing the wiki
 
 If you cant find your copy of the wiki, click on the user icon in the top right corner of github and hit 'Repositories', then find the one that says docs, that should be your copy. You'll be greated like the screen below if you did it right:
-![](https://puu.sh/KMFPu/9eacfdc9c5.png)
+
+![Fork Creation](assets/create.png)
+
 From here, you can open the docs folder where all of your work will take place, you can either open a page to edit, or add a new file on the top right hand side.
 
-<img width="480" height="250" alt="firefox_CX44tNxAfv" src="https://github.com/user-attachments/assets/94f72c48-206e-4aaf-b53b-3d457049f052"/>
+![Environment Editor Button](assets/fork.png)
 
-All of the files you'll make by hand will end in the .md format, you can find out more about markdown in the [markdown guide](https://www.markdownguide.org/basic-syntax/)
+All of the files you'll make by hand will end in the .md format, you can find out more about markdown in the [markdown guide](https://www.markdownguide.org/basic-syntax/).
+
 If you're using the web editor, a few things to note: 
 
 -   You have to commit your changes before leaving the page, otherwise your work will be lost.
-
 -   You can drag and drop an image file directly on to the editor and it will upload and embed it for you.
-
 -   Its mainly good for quick edits, but if you dont want to go all in on setting up a workspace, it works well enough.
-
 -   You can and should check the Preview thats offered, it wont be 1:1 but it will give a good enough idea of what your page formatting will look like.
 
 ## Contributing back to the docs

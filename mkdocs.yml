@@ -40,5 +40,12 @@ nav:
   - Home: index.md
   - FAQ: faq.md
   - Posing:
-    - Overlay Controls: posing/overlay.md
+    - Overlay: posing/overlay.md
+    - Gizmo: posing/transforms.md
+    - Import and Export: posing/io.md
+    - Advanced: posing/advanced.md
+  - Scene:
+    - Actor Management: scene/actors.md
+    - Environment and Lighting: scene/composition.md
+  - Guides: guides.md
   - Contributing: contributing.md
