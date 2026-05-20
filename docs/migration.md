@@ -84,7 +84,8 @@ Ktisis now features robust animation control, allowing you to select individual 
 Penumbra, Glamourer and Customize+ are now fully supported and easy to use options to apply options from your Profiles/Collections/Glamourer presets, as well as the ability to make an actors skin completely invisible leaving your gear free to be posed how you want thanks to the Penumbra support baked in.
 
 ### And more!
-A few items I didnt have room to go in to detail above for:
+A few items there wasn't space to go in to detail for:
+
 - Pose flipping
 - Multi-select Bones + Mirror modes
 - Native MCDF support
