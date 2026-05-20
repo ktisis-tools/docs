@@ -17,7 +17,7 @@ If you cant find your copy of the wiki, click on the user icon in the top right 
 
 From here, you can open the docs folder where all of your work will take place, you can either open a page to edit, or add a new file on the top right hand side.
 
-![Environment Editor Button](assets/fork.png)
+![File Creation](assets/fork.png)
 
 All of the files you'll make by hand will end in the .md format, you can find out more about markdown in the [markdown guide](https://www.markdownguide.org/basic-syntax/).
 
