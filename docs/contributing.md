@@ -13,11 +13,11 @@ This will bring you to your own copy of the docs, which you are now free to mess
 
 If you cant find your copy of the wiki, click on the user icon in the top right corner of github and hit 'Repositories', then find the one that says docs, that should be your copy. You'll be greated like the screen below if you did it right:
 
-![Fork Creation](assets/create.png)
+![Fork Creation](assets/fork.png)
 
 From here, you can open the docs folder where all of your work will take place, you can either open a page to edit, or add a new file on the top right hand side.
 
-![File Creation](assets/fork.png)
+![File Creation](assets/create.png)
 
 All of the files you'll make by hand will end in the .md format, you can find out more about markdown in the [markdown guide](https://www.markdownguide.org/basic-syntax/).
 

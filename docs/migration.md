@@ -8,6 +8,11 @@ Ktisis has been in development since **2022**, and the plugin ecosystem has matu
 
 Despite being the 'main' version of the plugin, v0.2 is wildly out of date in terms of best practices for sane plugin development _and_ for enhancements built on v0.3. The difference between versions has been one of the primary drivers for updates made to v0.3 over the last several months: bringing older features and conveniences into a new and stable interface that we can build on going forward. Features like Gaze Control, Bone Offsets, and Work Camera Speeds were all missing from v0.3 until recently - and v0.2 is missing many more features and stability fixes that were built into v0.3. As a result, v0.3 is now a more stable, more featured, and more extensible platform for us to create new content upon and follow the best practices of Dalamud development. Developing **both** versions in parallel has proved impossible for our small dev team, and more confusing than its worth for our userbase.
 
+![UI Migration](assets/toolbar.png){ width=600 }
+/// caption
+New looks, same great flavor!
+///
+
 After consulting with our users for a number of important changes to ease this migration, we hope to provide a better experience to more players by focusing our efforts into one product. Thank you for your trust and your patience!
 
 ## What's Changed?
