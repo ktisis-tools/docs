@@ -22,6 +22,8 @@ theme:
       accent: purple
   logo: assets/icon2.png
   favicon: assets/icon.png
+  features:
+    - navigation.path
 
 markdown_extensions:
   - admonition
@@ -46,7 +48,7 @@ nav:
   - Moving from v2 to v3: migration.md
   - Posing:
     - Overlay: posing/overlay.md
-    - Gizmo: posing/transforms.md
+    - Pose Mode: posing/transforms.md
     - Import and Export: posing/io.md
     - Advanced: posing/advanced.md
   - Scene:
