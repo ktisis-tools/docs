@@ -10,6 +10,10 @@ The following links include both general GPosing tips and Ktisis-specific inform
 - [Ktisis Lighting Quick Guide](https://bsky.app/profile/leatheruptime.bsky.social/post/3lpqhbxtnrc2y) by Uros - guiding principles for how to light a scene using Ktisis' different light settings
 - [Ktisis Lights + Portrait Gpose Tutorial](https://www.youtube.com/watch?v=70j2YKGNyq4) by Snow - an exhaustive walk-through of Snow's process for posing and lighting portraits & headshots using Ktisis, Brio, and ReShade
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/70j2YKGNyq4?si=jaOXIVEEOEIR2LfK" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+///caption
+///
+
 ## Resources
 The following are links to useful plugins, tools, and Discords for GPosing and working with FFXIV mods.
 
