@@ -53,6 +53,6 @@ nav:
     - Advanced: posing/advanced.md
   - Scene:
     - Actor Management: scene/actors.md
-    - Environment and Lighting: scene/composition.md
-  - Guides: guides.md
+    - Composition: scene/composition.md
+  - Guides & Resources: guides.md
   - Contributing: contributing.md
