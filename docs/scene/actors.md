@@ -29,6 +29,8 @@ If you've created or copied an actor, they might not always look exactly how you
 - individual Model IDs can be set directly from the `Actor Editor > Misc` tab, letting you browse all of the non-human options (including some VFX!)
 - external plugins such as [Glamourer](../posing/advanced.md#glamourer) are supported to load new looks over Ktisis' spawned actors
 
+**Animations** or idle poses can also be played, paused, and blended from the `Actor Editor > Animation` tab!
+
 ## Import and Export
 
 ### Saving an Appearance
