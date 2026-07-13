@@ -54,5 +54,5 @@ nav:
   - Scene:
     - Actor Management: scene/actors.md
     - Environment and Lighting: scene/composition.md
-  - Guides: guides.md
+  - Guides & Resources: guides.md
   - Contributing: contributing.md

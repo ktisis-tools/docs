@@ -65,7 +65,7 @@ IPCs (inter-plugin communications) are used by Ktisis to reach out to other popu
 ![IPC Tab](../assets/posing/ipc.png){ align=left width=400 }
 
 ### MCDFs
-Ktisis supports loading **MCDF** files packed by the Mare Synchronos sync service and its modern forks (Lightless, Snowcloak, Laci, et cetera) - applying one of these will overwrite the actor's Penumbra, Glamourer, and Customize+ data all at once to the saved appearance of the modded character contained in the .mcdf package. These changes (and any others made below) can be undone with the **Revert all IPC Data** button.
+Ktisis supports loading **MCDF** files packed by the Mare Synchronos sync service and its modern forks (Lightless, Snowcloak, PlayerSync, etc.) - applying one of these will overwrite the actor's Penumbra, Glamourer, and Customize+ data all at once to the saved appearance of the modded character contained in the .mcdf package. These changes (and any others made below) can be undone with the **Revert all IPC Data** button.
 
 ### PCPs
 **PCP** files are packaged by Penumbra's On-Screen view as another way of capturing your character's appearance to share with others. While Ktisis does not support importing .pcp files itself, if one is imported to Penumbra, the respective components in Penumbra, C+, and Glamourer can each be set using the selectors offered in the IPC menu.

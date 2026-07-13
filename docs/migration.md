@@ -2,9 +2,9 @@
 
 ## Why Are We Updating?
 
-Ktisis has been in development since **2022**, and the plugin ecosystem has matured wildly in that time. Ktisis v0.3 has been a work-in-progress since 2023, acting as a more stable foundation for our new features and the primary focus of the current development team. In short: we can simply do more, and people expect more, from a posing tool today than what was novel in the beginning. We're committed to providing a lightweight and accessible posing tool for users new & old of all skill levels, and the release of v0.3 is the latest evolution of that goal.
+Ktisis has been in development since **2022**, and a lot has changed with Dalamud and other plugins since then. Ktisis v0.3 has been a work-in-progress since 2023, acting as a more stable foundation for our new features and the primary focus of the current development team. New tools, skills, and resources are needed to deliver a great plugin. We're committed to providing a lightweight and accessible posing tool for users new & old of all skill levels, and the release of v0.3 is the latest evolution of that goal.
 
-### What's Wrong with v0.2? Why Is v0.3 Replacing It?
+### Why v0.3? What about v0.2?
 
 Despite being the 'main' version of the plugin, v0.2 is wildly out of date in terms of best practices for sane plugin development _and_ for enhancements built on v0.3. The difference between versions has been one of the primary drivers for updates made to v0.3 over the last several months: bringing older features and conveniences into a new and stable interface that we can build on going forward. Features like Gaze Control, Bone Offsets, and Work Camera Speeds were all missing from v0.3 until recently - and v0.2 is missing many more features and stability fixes that were built into v0.3. As a result, v0.3 is now a more stable, more featured, and more extensible platform for us to create new content upon and follow the best practices of Dalamud development. Developing **both** versions in parallel has proved impossible for our small dev team, and more confusing than its worth for our userbase.
 
@@ -15,7 +15,40 @@ New looks, same great flavor!
 
 After consulting with our users for a number of important changes to ease this migration, we hope to provide a better experience to more players by focusing our efforts into one product. Thank you for your trust and your patience!
 
-## What's Changed?
+## What's New?
+
+### Ktisis Toolbar
+If you're migrating from v0.2 (otherwise why would you be reading this?), you may find the Ktisis Toolbar more comfortable for your workflow: it condenses multiple windows in to one central window, reminescent of v0.2's layout. This is an alternative UX for those who prefer a more compact interface or who may find the variety of new editors overwhelming. You can enable the Toolbar as the first option in the General settings window.
+
+### Environment Editor
+The Environment Editor has been expanded significantly to include more in-depth Sky editing (now including skybox preview images and cloud-cover controls), Ambient Lighting, Fog, Rain and all other particle effects, Stars, Wind, Water, and even Housing lighting control. We encourage you to play with the new possibilities when building a scene!
+
+### Advanced Lighting
+v0.3 offers granular control over nearly all aspects of light sources in your scene. Lights spawned from the vanilla GPose menu, or any number created from the Workspace, can then be modified in the Object Editor to adjust anything about them: color, distance, shadows, shape and size and more.
+
+### Inverse Kinematics
+v0.3 has added [Inverse Kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) for controlling your arms, legs, tail and even genitals (if applicable), offering a shortcut to posing long chains of bones. When using IK, you only need to position an actor's hands or feet - Ktisis will do the hard work of bending their legs and arms without stretching or warping unnaturally.
+
+### Actor Spawning & Multi Posing
+You can now spawn over 40 actors - as a clones of your PC, from an NPC, using an MCDF or Chara file, or even replaced with minions or used for props. You can also pose bones from multiple actors at the same time! Bone overlay visibility is no longer dependent on having specific actors selected, and you can simply click from a bone on one skeleton to another with no hassle.
+
+### Animation Controls
+Ktisis now features full animation control, allowing you to select individual face, body, or lip animations. These can be played, slowed down, or scrubbed frame-by-frame by searching for complete emotes/actions, or making individual choices per-body part. To simplify expressions post-Dawntrail, vanilla face emotes can also be applied in the Animation menu while the character is frozen in Pose Mode.
+
+### Plugin Compatibility
+Penumbra, Glamourer, and Customize+ are now fully supported with easy to use options to apply settings from your Profiles/Collections/Glamourer designs. Appearances can be safely edited using outside plugins without fear, and MCDF files can be loaded in too. Integration with Penumbra allows for fun possibilities, such as turning an actor's skin invisible to pose only their gear and weapons.
+
+### And More!
+- Anamnesis-like Pose View
+- Pose flipping
+- Multi-selecting bones + new mirror modes
+- MCDF/PCP support
+- Expanded camera controls
+- 2D Gizmo
+- Attachment system
+- New personalizations
+
+## What's Changed from v0.2?
 
 ### Actor Tab
 
@@ -73,36 +106,3 @@ Keep in mind that not all settings will have a direct replacement, since v0.3 wa
     - Now under General :fontawesome-solid-arrow-right: Auto Save
 - References
     - Reference Images can now be added using the Workspace :fontawesome-solid-plus: menu, rather than through the Settings window.
-
-## What's New?
-
-### Ktisis Toolbar
-If you're migrating from v0.2 (otherwise why would you be reading this?), you may find the Ktisis Toolbar more comfortable for your workflow: it condenses multiple windows in to one central window, reminescent of v0.2's layout. This is an alternative UX for those who prefer a more compact interface or who may find the variety of new editors overwhelming. You can enable the Toolbar as the first option in the General settings window.
-
-### Environment Editor
-The Environment Editor has been expanded significantly to include more in-depth Sky editing (now including skybox preview images and cloud-cover controls), Ambient Lighting, Fog, Rain and all other particle effects, Stars, Wind, Water, and even Housing lighting control. We encourage you to play with the new possibilities when building a scene!
-
-### Advanced Lighting
-v0.3 offers granular control over nearly all aspects of light sources in your scene. Lights spawned from the vanilla GPose menu, or any number created from the Workspace, can then be modified in the Object Editor to adjust anything about them: color, distance, shadows, shape and size and more.
-
-### Inverse Kinematics
-v0.3 has added [Inverse Kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) for controlling your arms, legs, tail and even genitals (if applicable), offering a shortcut to posing long chains of bones. When using IK, you only need to position an actor's hands or feet - Ktisis will do the hard work of bending their legs and arms without stretching or warping unnaturally.
-
-### Actor Spawning & Multi Posing
-You can now spawn over 40 actors - as a clones of your PC, from an NPC, using an MCDF or Chara file, or even replaced with minions or used for props. You can also pose bones from multiple actors at the same time! Bone overlay visibility is no longer dependent on having specific actors selected, and you can simply click from a bone on one skeleton to another with no hassle.
-
-### Animation Controls
-Ktisis now features full animation control, allowing you to select individual face, body, or lip animations. These can be played, slowed down, or scrubbed frame-by-frame by searching for complete emotes/actions, or making individual choices per-body part. To simplify expressions post-Dawntrail, vanilla face emotes can also be applied in the Animation menu while the character is frozen in Pose Mode.
-
-### Plugin Compatibility
-Penumbra, Glamourer, and Customize+ are now fully supported with easy to use options to apply settings from your Profiles/Collections/Glamourer designs. Appearances can be safely edited using outside plugins without fear, and MCDF files can be loaded in too. Integration with Penumbra allows for fun possibilities, such as turning an actor's skin invisible to pose only their gear and weapons.
-
-### And More!
-- Anamnesis-like Pose View
-- Pose flipping
-- Multi-selecting bones + new mirror modes
-- MCDF/PCP support
-- Expanded camera controls
-- 2D Gizmo
-- Attachment system
-- New personalizations
