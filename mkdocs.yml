@@ -45,7 +45,7 @@ plugins:
 nav:
   - Home: index.md
   - FAQ: faq.md
-  - Moving from v2 to v3: migration.md
+  - Moving from v2 to v4: migration.md
   - Posing:
     - Overlay: posing/overlay.md
     - Pose Mode: posing/transforms.md

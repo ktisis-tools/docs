@@ -1,12 +1,12 @@
-# v0.2 to v0.3
+# v0.2 to v0.4
 
 ## Why Are We Updating?
 
-Ktisis has been in development since **2022**, and a lot has changed with Dalamud and other plugins since then. Ktisis v0.3 has been a work-in-progress since 2023, acting as a more stable foundation for our new features and the primary focus of the current development team. New tools, skills, and resources are needed to deliver a great plugin. We're committed to providing a lightweight and accessible posing tool for users new & old of all skill levels, and the release of v0.3 is the latest evolution of that goal.
+Ktisis has been in development since **2022**, and a lot has changed with Dalamud and other plugins since then. Ktisis v0.3 has been a work-in-progress since 2023, acting as a more stable foundation for our new features and the primary focus of the current development team. New tools, skills, and resources are needed to deliver a great plugin. We're committed to providing a lightweight and accessible posing tool for users new & old of all skill levels, and the release of v0.4 is the latest evolution of that goal.
 
-### Why v0.3? What about v0.2?
+### Why v0.4? What about v0.2?
 
-Despite being the 'main' version of the plugin, v0.2 is wildly out of date in terms of best practices for sane plugin development _and_ for enhancements built on v0.3. The difference between versions has been one of the primary drivers for updates made to v0.3 over the last several months: bringing older features and conveniences into a new and stable interface that we can build on going forward. Features like Gaze Control, Bone Offsets, and Work Camera Speeds were all missing from v0.3 until recently - and v0.2 is missing many more features and stability fixes that were built into v0.3. As a result, v0.3 is now a more stable, more featured, and more extensible platform for us to create new content upon and follow the best practices of Dalamud development. Developing **both** versions in parallel has proved impossible for our small dev team, and more confusing than its worth for our userbase.
+Despite being the 'main' version of the plugin, v0.2 is wildly out of date in terms of best practices for sane plugin development _and_ for enhancements built on v0.3. The difference between versions has been one of the primary drivers for updates made to v0.3 over the last several months: bringing older features and conveniences into a new and stable interface that we can build on going forward. Features like Gaze Control, Bone Offsets, and Work Camera Speeds were all missing from v0.3 until recently - and v0.2 is missing many more features and stability fixes that were built into v0.3. v0.3 has now been transitioned into the main v0.4 build - and as a result, v0.4 is now a more stable, more featured, and more extensible platform for us to create new content upon and follow the best practices of Dalamud development. Developing **both** versions in parallel proved impossible for our small dev team, and more confusing than its worth for our userbase.
 
 ![UI Migration](assets/toolbar.png){ width=600 }
 /// caption
@@ -24,10 +24,10 @@ If you're migrating from v0.2 (otherwise why would you be reading this?), you ma
 The Environment Editor has been expanded significantly to include more in-depth Sky editing (now including skybox preview images and cloud-cover controls), Ambient Lighting, Fog, Rain and all other particle effects, Stars, Wind, Water, and even Housing lighting control. We encourage you to play with the new possibilities when building a scene!
 
 ### Advanced Lighting
-v0.3 offers granular control over nearly all aspects of light sources in your scene. Lights spawned from the vanilla GPose menu, or any number created from the Workspace, can then be modified in the Object Editor to adjust anything about them: color, distance, shadows, shape and size and more.
+v0.4 offers granular control over nearly all aspects of light sources in your scene. Lights spawned from the vanilla GPose menu, or any number created from the Workspace, can then be modified in the Object Editor to adjust anything about them: color, distance, shadows, shape and size and more.
 
 ### Inverse Kinematics
-v0.3 has added [Inverse Kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) for controlling your arms, legs, tail and even genitals (if applicable), offering a shortcut to posing long chains of bones. When using IK, you only need to position an actor's hands or feet - Ktisis will do the hard work of bending their legs and arms without stretching or warping unnaturally.
+v0.4 has added [Inverse Kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) for controlling your arms, legs, tail and even genitals (if applicable), offering a shortcut to posing long chains of bones. When using IK, you only need to position an actor's hands or feet - Ktisis will do the hard work of bending their legs and arms without stretching or warping unnaturally.
 
 ### Actor Spawning & Multi Posing
 You can now spawn over 40 actors - as a clones of your PC, from an NPC, using an MCDF or Chara file, or even replaced with minions or used for props. You can also pose bones from multiple actors at the same time! Bone overlay visibility is no longer dependent on having specific actors selected, and you can simply click from a bone on one skeleton to another with no hassle.
@@ -88,7 +88,7 @@ Penumbra, Glamourer, and Customize+ are now fully supported with easy to use opt
 
 ### Options
 
-Keep in mind that not all settings will have a direct replacement, since v0.3 was rebuilt from the ground up.
+Keep in mind that not all settings will have a direct replacement, since v0.3 and v0.4 were rebuilt from the ground up.
 
 - Interface
     - Open Ktisis: Ktisis now automatically opens when you open GPose.
@@ -97,7 +97,7 @@ Keep in mind that not all settings will have a direct replacement, since v0.3 wa
 - Overlay
     - Bone and Category Colors are sorted under Personalize
     - Skeleton Lines and Dots customization have moved to Personalize :fontawesome-solid-arrow-right: Overlay
-    - Edit Bone Positions moved to Personalize :fontawesome-solid-arrow-right: Bone Offsets. Offsets can be imported from the clipboard in the v0.2 format or v0.3 format.
+    - Edit Bone Positions moved to Personalize :fontawesome-solid-arrow-right: Bone Offsets. Offsets can be imported from the clipboard in the v0.2 format or v0.4 format.
 - Input
     - Now called Inputs. Additional categories have been added for more convenient and time-saving hotkeys that can be configured in each Inputs menu.
 - Camera

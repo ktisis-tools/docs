@@ -8,7 +8,7 @@ Once upon a time, players had to switch to Summoner and spawn a Ruby Carbuncle, 
 
 ![Actor Creation](../assets/scene/actor-create.png){ align=right width=400 }
 
-**No longer!** With Ktisis v0.3, you can spawn **over 200** extra actors to pose with by clicking to `Create new actor` in the Workspace window. Any new actors will by default copy the appearance of your player character, but these can be edited however you wish (see below!).
+**No longer!** With Ktisis v0.4, you can spawn **over 200** extra actors to pose with by clicking to `Create new actor` in the Workspace window. Any new actors will by default copy the appearance of your player character, but these can be edited however you wish (see below!).
 
 Besides spawning new actors this way, you can also grab anyone that's outside your GPose scene using the _Add overworld actor_ button. This displays a named list of options, from NPCs to Players and Minions, so you can click and add any to either pose them as primary actors or in the background of your picture.
 

@@ -30,7 +30,7 @@ The following settings are available to personalize how your overlay is displaye
 
 - Categories of bones can be recolored in both the Workspace (_Group_) and Overlay (_Bone_) views - these can share the same colors or different ones, and customizing them allows you to make sections of the body visually distinct from one another
 - Bone dots and lines in the overlay can have their thickness and transparency changed, or can be made invisible while manipulating to more clearly see the actor underneath
-- **Bone Offsets** can be manually defined or pasted from your clipboard. Offsets are used to shift the 3D location where bones appear on the actor's model, making it easier to select those that closely overlap on the skeleton like the densely-packed face bones or custom skeleton bones. A commonly-shared collection of offsets made for Ktisis v0.2 and usable in v0.3 can be found [here](https://docs.google.com/document/d/1zDBf_MGi88GcZHTznVgJZkvJG7CKBTaKOMKO8WAUNzo/)
+- **Bone Offsets** can be manually defined or pasted from your clipboard. Offsets are used to shift the 3D location where bones appear on the actor's model, making it easier to select those that closely overlap on the skeleton like the densely-packed face bones or custom skeleton bones. A commonly-shared collection of offsets made for Ktisis v0.2 and usable in v0.4 can be found [here](https://docs.google.com/document/d/1zDBf_MGi88GcZHTznVgJZkvJG7CKBTaKOMKO8WAUNzo/)
 - The Pose View paperdoll can be customized to match your own OC using our [template images](https://github.com/ktisis-tools/Ktisis/tree/v0.3/main/Ktisis/Data/Images/Templates)
 
 ## Non-Bone Overlays
