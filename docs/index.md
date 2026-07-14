@@ -1,6 +1,11 @@
 # Ktisis Documentation Hub
 Welcome to the new home for Ktisis' documentation, guides, and more!
 
+![Ktisis Light](./assets/light-logo.png#only-light){ width=500 }
+![Ktisis Dark](./assets/dark-logo.png#only-dark){ width=500 }
+///caption
+///
+
 ## About Ktisis
 [Ktisis](https://github.com/ktisis-tools/ktisis) is a robust posing tool that enhances the capabilities of FFXIV's GPose mode. It follows in the footsteps of [CMTool](https://github.com/imchillin/CMTool) and [Anamnesis](https://github.com/imchillin/Anamnesis) to allow users to pose characters with control over individual bones, while also offering a full suite of controls over other aspects of photo or video scene composition.
 
