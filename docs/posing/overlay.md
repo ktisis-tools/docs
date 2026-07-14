@@ -44,3 +44,15 @@ Other parts of the scene can also be shown in the overlay:
 ![Ref Images](../assets/posing/reference-image.png){ width=400 }
 /// caption
 ///
+
+### Dialog Overlays
+![Dialogs](../assets/posing/dialogs.png){ width=400 align=left }
+
+In v0.4, Ktisis can now create customizable text bubbles, buffs, and more anywhere on screen. These can be used to add more flavor to your screenshots or help tell connected stories without needing to open Photoshop!
+
+Any overlay nodes can have their size, position, and opacity modified; each node includes other unique options:
+
+- **Dialog** nodes can have their speaker and talk text ediged, the corner cursor changed or removed, and the text box color/background choice modified to various vanilla options
+- **Balloon** nodes can have the arrow slid side-to-side or removed, plus their gradient color and bubble shape customized
+- **Status** nodes can be chosen as Buff, Debuff, or Falloff color & state type, along with a custom icon pulled from any vanilla statuses
+

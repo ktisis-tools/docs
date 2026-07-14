@@ -17,6 +17,17 @@ After consulting with our users for a number of important changes to ease this m
 
 ## What's New?
 
+### Ktisis v0.4
+The v0.4 release comes with all the changes made to v0.3 since 2024, plus a number of brand-new features:
+
+- Vanilla Dialog Overlays
+- World Overlay and Object+Light Manipulation
+- Light Textures (Gobos)
+- 3D Pose Previewer
+- Expression Sliders
+- Scene IO using `.ktscene`
+- Enhanced Camera Tracking
+
 ### Ktisis Toolbar
 If you're migrating from v0.2 (otherwise why would you be reading this?), you may find the Ktisis Toolbar more comfortable for your workflow: it condenses multiple windows in to one central window, reminescent of v0.2's layout. This is an alternative UX for those who prefer a more compact interface or who may find the variety of new editors overwhelming. You can enable the Toolbar as the first option in the General settings window.
 

@@ -93,4 +93,15 @@ We recommend playing with all the available settings for lighting in the **Objec
 
 ![Lighting Rainbows](../assets/scene/lights-rainbow.png){ width=600 }
 /// caption
-/// 
+///
+
+#### Gobos
+Spotlights and Area Lights support gobo textures, currently a set of 80+ vanilla images that can be projected over the light source. These textures can create interesting silhouettes and color effects when combined with other light settings!
+
+## World Editing
+Using Ktisis v0.4, nearly any object in the overworld can be picked from its surroundings and manipulated as though it were an actor or prop in your GPose scene. These objects can be selected from the World Overlay in the Workspace window, then hidden or dragged in your scene to any place or size you wish. Light sources and PC/NPC actors can be added this way, too!
+
+![World Light Gobo](../assets/scene/lights-gobo.png){ width=600 }
+/// caption
+Ktisis being used to select and manipulate disco-light from Eulmore's Beehive
+///
