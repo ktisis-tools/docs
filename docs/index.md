@@ -29,6 +29,6 @@ Welcome to the new home for Ktisis' documentation, guides, and more!
 ## What's New?
 Ktisis v0.4 has just released! This update is the product of years of work, replacing v0.2 and enhancing the v0.3 build for all users. More info on the transition can be found in our [migration docs](./migration.md). Check out the trailer below!
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/1Jf2mTC-JRA?si=MBTApwkNsoz25CF-" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/6iV6XIZvpX4?si=CuYUtlC0OaDTwylw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ///caption
 ///
