@@ -14,7 +14,7 @@ The following links include both general GPosing tips and Ktisis-specific inform
 ///caption
 ///
 
-- [TimelineAnimator - Basic Guide](https://www.youtube.com/watch?v=VdKL8YC2ygc) by Leyla - introduces the pose and camera controls offered by the TimelineAnimator plugin plus Ktisis v0.3
+- [TimelineAnimator - Basic Guide](https://www.youtube.com/watch?v=VdKL8YC2ygc) by Leyla - introduces the pose and camera controls offered by the TimelineAnimator plugin plus Ktisis v0.4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdKL8YC2ygc?si=7stXJotO0sZKQlt1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ///caption

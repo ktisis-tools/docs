@@ -30,7 +30,7 @@ The following settings are available to personalize how your overlay is displaye
 
 - Categories of bones can be recolored in both the Workspace (_Group_) and Overlay (_Bone_) views - these can share the same colors or different ones, and customizing them allows you to make sections of the body visually distinct from one another
 - Bone dots and lines in the overlay can have their thickness and transparency changed, or can be made invisible while manipulating to more clearly see the actor underneath
-- **Bone Offsets** can be manually defined or pasted from your clipboard. Offsets are used to shift the 3D location where bones appear on the actor's model, making it easier to select those that closely overlap on the skeleton like the densely-packed face bones or custom skeleton bones. A commonly-shared collection of offsets made for Ktisis v0.2 and usable in v0.3 can be found [here](https://docs.google.com/document/d/1zDBf_MGi88GcZHTznVgJZkvJG7CKBTaKOMKO8WAUNzo/)
+- **Bone Offsets** can be manually defined or pasted from your clipboard. Offsets are used to shift the 3D location where bones appear on the actor's model, making it easier to select those that closely overlap on the skeleton like the densely-packed face bones or custom skeleton bones. A commonly-shared collection of offsets made for Ktisis v0.2 and usable in v0.4 can be found [here](https://docs.google.com/document/d/1zDBf_MGi88GcZHTznVgJZkvJG7CKBTaKOMKO8WAUNzo/)
 - The Pose View paperdoll can be customized to match your own OC using our [template images](https://github.com/ktisis-tools/Ktisis/tree/v0.3/main/Ktisis/Data/Images/Templates)
 
 ## Non-Bone Overlays
@@ -44,3 +44,15 @@ Other parts of the scene can also be shown in the overlay:
 ![Ref Images](../assets/posing/reference-image.png){ width=400 }
 /// caption
 ///
+
+### Dialog Overlays
+![Dialogs](../assets/posing/dialogs.png){ width=400 align=left }
+
+In v0.4, Ktisis can now create customizable text bubbles, buffs, and more anywhere on screen. These can be used to add more flavor to your screenshots or help tell connected stories without needing to open Photoshop!
+
+Any overlay nodes can have their size, position, and opacity modified; each node includes other unique options:
+
+- **Dialog** nodes can have their speaker and talk text ediged, the corner cursor changed or removed, and the text box color/background choice modified to various vanilla options
+- **Balloon** nodes can have the arrow slid side-to-side or removed, plus their gradient color and bubble shape customized
+- **Status** nodes can be chosen as Buff, Debuff, or Falloff color & state type, along with a custom icon pulled from any vanilla statuses
+
